@@ -8,6 +8,6 @@
 
   <img src="https://github.com/qingshan2048/resource/blob/main/wangweidashi2.jpg">
 
-## 2 . 网维大师客户机无法同步挖矿程序的解决方法：
+## 2 . 解决方法：
 
-- 网维大师客户机无法同步挖矿程序的解决方法：https://www.nvidia.cn/drivers/results/187610/
+- 解决方法
