@@ -11,11 +11,11 @@
 ## 币策：系统提示无法找到 VCRUNTIME140.DLL，MSVCP140.DLL，VCRUNTIME140_1.DLL 的解决方法：
 
 - 提示：“由于找不到 VCRUNTIME140.DLL，MSVCP140.DLL，VCRUNTIME140_1.DLL，无法继续执行代码。重新安装程序可能会解决此问题。”，如在阿里云的轻量服务器中 (Windows 2022数据中心版) 系统镜像中会出现此问题
-- 解决步骤(1)：
+- 解决步骤(1)：下载文件
 ```bash
-- 下载文件 VCRUNTIME140.DLL：https://github.com/qingshan2048/resource/raw/main/vcruntime140.dll
-- 下载文件 MSVCP140.DLL：https://github.com/qingshan2048/resource/raw/main/msvcp140.dll
-- 下载文件 VCRUNTIME140_1.DLL：https://github.com/qingshan2048/resource/raw/main/vcruntime140_1.dll
+VCRUNTIME140.DLL: https://github.com/qingshan2048/resource/raw/main/vcruntime140.dll
+MSVCP140.DLL: https://github.com/qingshan2048/resource/raw/main/msvcp140.dll
+VCRUNTIME140_1.DLL: https://github.com/qingshan2048/resource/raw/main/vcruntime140_1.dll
 ```
 
 - 解决步骤(2)：将文件解压到币策相同目录后运行币策即可
